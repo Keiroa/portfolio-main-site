@@ -1,0 +1,15 @@
+{
+  "name": "portfolio-main-site",
+  "version": "1.0.0",
+  "description": "Main Portfolio Web Application utilizing CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Rodas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^20.1.0"
+  }
+}
